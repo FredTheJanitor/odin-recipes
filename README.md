@@ -29,3 +29,10 @@ here in this first attempt.  However, the process has further encouraged me to i
 possibilities that could come with some sort of documentation software that reads properly formatted git
 logs.
 
+Upon review of this project I realized that 1: I need to be way better about clicking ctrl+S before
+barrelling into my commits LMAO, also being careful and not rushing pays off, for example I noticed
+small mistakes in many other students' projects and therefore intuit that I have many of my own. 1
+Flaw I discovered was the alt attribute for my flesh of adversaries recipe was not updated properly
+which caused me to discover my much larger problem of not hitting ctrl S before Gittin my Git on lol.
+
+A good lesson from this would be to make step 1 of Git: CTRL S YO SHIT.
