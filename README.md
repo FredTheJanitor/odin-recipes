@@ -2,10 +2,10 @@ Project: Recipes - from The Odin Project
 
 Core Skills Used & Demonstrated:
 
-HTML
-Git/ Github (Conventional Commits)
-File Creation & Project Organization
-CLI and Bash
+HTML,
+Git/ Github (Conventional Commits),
+File Creation & Project Organization,
+CLI and Bash,
 Culinary Prowess
 
 --
