@@ -1,1 +1,4 @@
 /* Refs: OdinRecipes02 */
+*, *::before, *::after {
+    box-sizing: border-box;
+}
