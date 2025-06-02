@@ -21,8 +21,10 @@
     margin-bottom: 10px;
 }
 
-/* this isnt working 
-bug01
+/* this isnt working
+Refs: OdinRecipes02 bug01
+
+color is not taking, could be recency effect?
 */
 .subcontainer.container {
     background-color: #8ba7a7;
