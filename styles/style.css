@@ -21,7 +21,9 @@
     margin-bottom: 10px;
 }
 
-/* this isnt working */
+/* this isnt working 
+bug01
+*/
 .subcontainer.container {
     background-color: #8ba7a7;
 }
