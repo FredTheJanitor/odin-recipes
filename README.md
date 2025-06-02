@@ -1,3 +1,19 @@
+Master:
+Refs: OdinRecipes
+--
+
+Refs: OdinRecipes02
+Project 2: Recipes - from The Odin Project - CSS foundations: Block & Inline
+
+Core Skills Used & Demonstrated:
+
+CSS
+Git
+CLI and Bash,
+
+
+--
+
 Project: Recipes - from The Odin Project
 
 Core Skills Used & Demonstrated:
