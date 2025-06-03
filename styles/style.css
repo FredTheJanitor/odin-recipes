@@ -2,12 +2,14 @@
 *, *::before, *::after {
     box-sizing: border-box;
 }
-
+body {
+    background-color: black;
+}
 .home {
     width: 800px;
     text-align: center;
     margin: auto;
-    margin-top: 250px;
+    margin-top: 150px;
     
     background-color: darkslategray;
     color: white;
@@ -21,13 +23,20 @@
     margin-bottom: 10px;
 }
 
+/* added width and height because hover text size change
+was moving the container lmao */
+.links {
+    width: 730px;
+    height: 210px;
+}
+
 /* this isnt working
 Refs: OdinRecipes02 bug01
 
 color is not taking, could be recency effect?
-*/
+no, just didnt save the html lmao*/
 .subcontainer.container {
-    background-color: #8ba7a7;
+    background-color: #003636;
 }
 
 ul {
@@ -36,4 +45,17 @@ ul {
 }
 a {
     color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+}
+a:hover {
+    color: #00ffdd;
+    font-size: 40px;
+
+}
+
+h1 {
+    font-family: fantasy;
+    font-weight: lighter;
+    font-size: 80pt;
 }
