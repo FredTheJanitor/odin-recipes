@@ -67,10 +67,21 @@ no, just didnt save the html lmao*/
     margin-top: -150px;
     
 }
+.steps {
+    
+}
+.steps ol {
+    text-align: left;
+    
+}
 
 ul {
     text-align: left;
     list-style-type: none;
+}
+
+.ingredients ul {
+    list-style-type: disc;
 }
 a {
     color: white;
