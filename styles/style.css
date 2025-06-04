@@ -94,3 +94,9 @@ a:hover {
 
 }
 
+.fleshOfAdversaries img {
+    width: 600px;
+    height: 200px;
+    margin-top: -30px;
+    border-radius: 5%;
+}
